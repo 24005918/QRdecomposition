@@ -1,4 +1,4 @@
-# Algorithm for QR Decomposition
+![{AF125AC5-A344-4280-B0CA-4799C87DA93C}](https://github.com/user-attachments/assets/07c55d99-902a-4180-b36f-c5601aa64057)# Algorithm for QR Decomposition
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Equipment’s required:
@@ -24,11 +24,11 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Program:
 
 ## Gram-Schmidt Method
-```
+
 Program to QR decomposition using the Gram-Schmidt method
 Developed by: SANTHOSH V
 RegisterNumber: 212224230252
-'''
+
 import numpy as np
 
 def QR_Decomposition(A):
@@ -61,7 +61,7 @@ QR_Decomposition(a)
 
 # Output
 
-![Uploading {AF125AC5-A344-4280-B0CA-4799C87DA93C}.png…]()
+![{AF125AC5-A344-4280-B0CA-4799C87DA93C}](https://github.com/user-attachments/assets/4372ca7d-9fef-4b7d-b531-e9265dd02437)
 
 
 
