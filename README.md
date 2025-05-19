@@ -61,7 +61,7 @@ QR_Decomposition(a)
 
 # Output
 
-![{A110FC96-3A78-441C-8AE1-A2DF0DF1F054}](https://github.com/user-attachments/assets/ef33a345-4507-4d6f-b460-6f838d245b76)
+![Uploading {AF125AC5-A344-4280-B0CA-4799C87DA93C}.png…]()
 
 
 
